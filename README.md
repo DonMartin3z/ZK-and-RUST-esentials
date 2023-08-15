@@ -1,5 +1,13 @@
 # ZK-and-RUST-esentials
 This is a sample project that aims to describe the proccess and implementation of simple and complex Zero Knowledge Proofs in the RUST language. 
-We starting this by trying do draw our project objective, is a layer of verification? is it an economic environment? This is something that all
-the curious need to understand. there existe many ways to explain Zero knowledge proofs and why they might be essencialk to the blockchain space, 
-but the simplest way is to 
+
+JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+YYJJJJJJJJJJJJJJJJJJJJJJJJ?????JPPPPGJ?JPPP5???5P5PY7JPP5G57JP555?!7?Y?Y WE ARE ETHEREUM
+YYJJJJJJJJJJJJJJJJJJJJJJJJ?????J&5?P#J?G5??#57BG??BG7BP77BG!P#?7PB?YYYJ?Y?J 
+YYJJJJJJJJJJJJJJJJJJJJJJJJ??????Y?J#Y???7?7BP7#577GG7#577GP!5B7?J????JYYJJJ!!
+YYJJJJJJJJJJJJJJJJJJJJJJJJ????????GB???J5P5#57#57?BP7#577GP!5BYJYP77?5YJYJ7
+YYJJJJJJJJJJJJJJJJJJJJJJJJ???????Y#J???#PJJ#57BB5PP?7#577GP!5B?7Y&Y7????J
+YYJJJJJJJJJJJJJJJJJJJJJJJJ???????#P??J?#Y7?BP7#577777#577GP!5B7!Y#???JY77?
+YYJJJJJJJJJJJJJJJJJJJJJJJJ??????PB??Y&J#Y??#57#P775Y7#577BP!PB77Y#77?5?77?
+YYJJJJJJJJJJJJJJJJJJJJJJJJ??????BGPPG5?GGPPP?7YGPPGJ7YGPPG?7YP77JG777Y?7Y7J
+JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
